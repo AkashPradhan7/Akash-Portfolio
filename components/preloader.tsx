@@ -51,7 +51,7 @@ export default function Preloader() {
                     transition={{ delay: 0.3, duration: 0.5 }}
                     className="text-2xl font-bold"
                   >
-                    <Image src="/babu.png" alt="babu" width={120} height={120}/>
+                    <Image src="/babu.png" alt="babu" width={200} height={200}/>
                     
                   </motion.div>
                 </div>

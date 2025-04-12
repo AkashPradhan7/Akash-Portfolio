@@ -14,28 +14,28 @@ const skills = [
   {
     name: "Backend Development",
     icon: <Server className="h-8 w-8" />,
-    description: "Node.js, Express, NestJS",
+    description: "Node.js, Express",
   },
-  {
-    name: "Database",
-    icon: <Database className="h-8 w-8" />,
-    description: "MongoDB, PostgreSQL, MySQL",
-  },
+  // {
+  //   name: "Database",
+  //   icon: <Database className="h-8 w-8" />,
+  //   description: "MongoDB, PostgreSQL, MySQL",
+  // },
   {
     name: "UI/UX Design",
     icon: <Palette className="h-8 w-8" />,
     description: "Figma, Adobe XD, Tailwind CSS",
   },
-  {
-    name: "DevOps",
-    icon: <Cloud className="h-8 w-8" />,
-    description: "Docker, AWS, CI/CD",
-  },
-  {
-    name: "Mobile Development",
-    icon: <Smartphone className="h-8 w-8" />,
-    description: "React Native, Flutter",
-  },
+  // {
+  //   name: "DevOps",
+  //   icon: <Cloud className="h-8 w-8" />,
+  //   description: "Docker, AWS, CI/CD",
+  // },
+  // {
+  //   name: "Mobile Development",
+  //   icon: <Smartphone className="h-8 w-8" />,
+  //   description: "React Native, Flutter",
+  // },
   {
     name: "Architecture",
     icon: <Layers className="h-8 w-8" />,
